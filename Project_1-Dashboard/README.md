@@ -1,10 +1,11 @@
 # Excel Salary Dashboard
-## Analyzing Global Data Science Salaries ##
+## Analyzing Global Data Science Salaries
+
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/35d8cee8-54e2-4ec0-a514-c54567a2aa8e)
 
 ## Introduction
 
-This interactive Excel dashboard analyzes 2023 data science job salaries across roles, countries, and job types. Built as part of my data analytics upskilling, it demonstrates my ability to transform raw data into actionable insights using Excel.The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+This interactive Excel dashboard analyzes 2023 data science job salaries across roles, countries, and job types. Built as part of my data analytics upskilling, it demonstrates my ability to transform raw data into actionable insights using Excel.
 
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
@@ -19,7 +20,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
@@ -32,7 +33,8 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img width="1336" height="867" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/61dfe9e3-0664-4883-a024-e9daf19dbbee" />
+
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -41,7 +43,8 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![1_Salary_Dashboard_Country_Map](https://github.com/user-attachments/assets/c111b17a-c0a8-479a-9a24-64ba05725216)
+
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -72,11 +75,13 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+<img width="265" height="220" alt="1_Salary_Dashboard_Screenshot1" src="https://github.com/user-attachments/assets/d48361ab-5f48-489f-ac09-93b2d9b5823b" />
+
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img width="1148" height="1214" alt="1_Salary_Dashboard_Job_Title" src="https://github.com/user-attachments/assets/54c31d35-84af-4085-8964-9a20db3f7e52" />
+
 
 #### ⏰ Count of Job Schedule Type
 
@@ -89,11 +94,13 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+<img width="195" height="119" alt="1_Salary_Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/27ff0a97-c1cc-4b66-b781-85b23522c18c" />
+
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img width="942" height="1212" alt="1_Salary_Dashboard_Type" src="https://github.com/user-attachments/assets/8a278df6-66a7-45a6-81a7-326bb90f65a4" />
+
 
 ### ❎ Data Validation
 
@@ -104,7 +111,8 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/c9b188dc-87f2-46e9-89a8-6d4e5d33ce48)
+
 
 ## Credits & Notes ##
 - Inspired by Luke Barousse’s Excel course (dataset adapted for privacy).
