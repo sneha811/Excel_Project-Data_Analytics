@@ -1,12 +1,10 @@
 # Excel Salary Dashboard
-
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+## Analyzing Global Data Science Salaries ##
+![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/35d8cee8-54e2-4ec0-a514-c54567a2aa8e)
 
 ## Introduction
 
-This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
-
-The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+This interactive Excel dashboard analyzes 2023 data science job salaries across roles, countries, and job types. Built as part of my data analytics upskilling, it demonstrates my ability to transform raw data into actionable insights using Excel.The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
