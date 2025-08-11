@@ -106,6 +106,6 @@ IF(
 
 <img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
-## Conclusion
-
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+## Credits & Notes ##
+- Inspired by Luke Barousse’s Excel course (dataset adapted for privacy).
+- Tools: Excel, Power Query (for cleaning).
